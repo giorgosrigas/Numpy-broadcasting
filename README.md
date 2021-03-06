@@ -12,3 +12,6 @@ mathematical operations. If the arrays have different sizes, including
 different dimensions, the function matches them and the output array has
 the maximum shape. The function returns eturns output array which is the product of the executed
 mathematical function between the two input arrays.
+
+# Required Libraries:
+Numpy
